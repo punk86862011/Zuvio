@@ -11,6 +11,8 @@ Zuvio RD Team 工作時程表
 
 ##Android & iOS 教師遙控器 & PowerPoint 外掛
 讓老師能夠透過手機以及 PowerPoint 外掛來製作問題、Run問題，另外手機版支援老師能夠即時管理學生名單
+
+
 _詳細的時程如下：_
 
     5/14    給手機以及 PowePoint 的API完成
